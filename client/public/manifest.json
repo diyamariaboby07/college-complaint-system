@@ -1,0 +1,17 @@
+{
+  "name": "CampusCare Complaint Management System",
+  "short_name": "CampusCare",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0c8ce9",
+  "description": "College Complaint Management and Facility Helpdesk Portal",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
